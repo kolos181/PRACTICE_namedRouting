@@ -1,3 +1,4 @@
+Simple app, made to understand how named routing works. App toggles between two different named routes, green component and red component
 Practice docs:
 https://onehungrymind.com/named-router-outlets-in-angular-2/
 
